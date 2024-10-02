@@ -1,6 +1,6 @@
 # WeChat - React Js Chat App
 
-**live demo: [https://react-chat-app-kohl.vercel.app/app](https://react-chat-app-kohl.vercel.app/app)**
+**Hosting Link: [https://react-chat-fcq78c9sl-haranrajmadiqs-projects.vercel.app/app](https://react-chat-fcq78c9sl-haranrajmadiqs-projects.vercel.app/app)**
 
 ---
 
